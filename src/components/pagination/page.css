@@ -1,0 +1,16 @@
+.first{
+    margin-top: 20px;
+    padding: 20px;
+    text-align: center;
+}
+.page__info{
+    text-decoration: none;
+    background-color:grey;
+    padding: 30px;
+    color: white
+}
+.page__info:hover{
+    background-color: black;
+    color: white;
+    border: 1px solid wheat;
+}

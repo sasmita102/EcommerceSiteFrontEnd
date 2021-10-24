@@ -1,0 +1,48 @@
+#button{
+    background: blue;
+    width: 20px;
+    height: 20px;
+    border-radius: 50px
+}
+#button1{
+    background:red;
+    width: 20px;
+    height: 20px;
+    border-radius: 50px;
+    margin: 15px;
+}
+#button2{
+    background:black;
+    width: 20px;
+    height: 20px;
+    border-radius: 50px;
+    margin: 15px;
+}
+#button3{
+    background: yellow;
+    width: 20px;
+    height: 20px;
+    border-radius: 50px;
+    margin: 15px;
+}
+#button4{
+    background:orange;
+    width: 20px;
+    height: 20px;
+    border-radius: 50px;
+    margin: 15px;
+}
+#button5{
+    background: green;
+    width: 20px;
+    height: 20px;
+    border-radius: 50px;
+    margin: 15px;
+}
+#button6{
+    background:pink;
+    width: 20px;
+    height: 20px;
+    border-radius: 50px;
+    margin: 15px;
+}

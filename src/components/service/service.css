@@ -1,0 +1,32 @@
+.facility{
+    margin-top: 40px;
+    display: flex;
+}
+.faleft{
+    flex:4;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+
+    }
+.facenter{
+    flex:4;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+
+}
+.faright{
+    flex:4;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.faInfo ,.faInfo1,.faInfo2 {
+    margin-top: 20px
+}
+.fadesc, .fadesc1,.fadesc2{
+    margin-top:20px;
+}
+@media only screen and (min-width:320px) and (max-width:780px) {
+    .facility{
+        display:block
+    }
+}
